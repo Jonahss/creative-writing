@@ -1,4 +1,4 @@
-The End of Bureauocracy
+The End of Bureaucracy
 
 And it was, that Jethro, the Midian priest and father-in-law of Moses came to Moses and said:
 
