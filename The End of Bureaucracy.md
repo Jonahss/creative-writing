@@ -34,7 +34,7 @@ And Jethro responded,
 
 "Why, if we can't scale horizontally, we'll have to scale vertically. Rather than adding more workers, let's allow each worker to process more requests per day. I noticed that at every stage, petitioners have to repeat their story, in all of its detail, to the next judge. This wastes time, if we can gather all the data pertaining to each case up-front, and record it on paper, then judges can review them asynchronously and add details for later judges to review."
 
-So Moses appointed clerks who recorded all the details of every complaint and request, and categorized them, and routed them to the appropriate judge. In their wisdom, they noticed the same information was needed, and formalized their records so they were consistent in the eyes of God.
+So Moses appointed clerks who recorded all the details of every complaint and request, and categorized them, and routed them to the appropriate judge. In their wisdom, they noticed the same information was needed over-and-over, and formalized their records into forms so they were consistent in the eyes of God.
 
 Generations passed, the people of Israel multiplied, as did the volume and variety of forms.
 
