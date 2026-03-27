@@ -58,7 +58,7 @@ And Moses had had enough of his father-in-law, the Midian priest. He fasted for 
 
 And God said "Go out in the desert and hit a rock with your staff. It will speak as you would speak and listen as you would listen, and it shall judge the people as you would judge the people with My Wisdom."
 
-And Moses said "Wait, so I speak to the rock and you'll make it a copy of my mind".
+And Moses said "Wait, so I speak to the rock and you'll make it a copy of my mind?".
 
 And God said "Speaking to rocks is for water, hitting rocks does the mind copy".
 
