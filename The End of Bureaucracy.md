@@ -18,7 +18,7 @@ And Moses replied:
 
 "Then you must appoint 70 wise men, the wisest from all the tribes of Israel, and our decision throughput will increase 70-fold while retaining 95% satisfaction rates. You, Moses, can still take the most difficult and novel cases, and we shall have an appeal process to recoup the 5% loss of quality".
 
-And so it was, that 70 wise men were chosen from the tribes of Israel, and they passed judgement on the people, and Moses could devote more time to further contemplating the commandments of God".
+And so it was, that 70 wise men were chosen from the tribes of Israel, and they passed judgement on the people, and Moses could devote more time to further contemplating the commandments of God.
 
 A generation passed, and the people of Israel mutiplied, and their needs for administration grew. Each wise man appointed 70 honorable men, to each honorable man there were 70 respectable men, and to each respectable man there were 70 dependable men.
 
