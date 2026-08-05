@@ -40,7 +40,7 @@ Generations passed, the people of Israel multiplied, as did the volume and varie
 
 And it was that Moses came to Jethro and said:
 
-"Oh Brother! I am seeing your dminishing returns again! The scribes write until their hands cramp and still the people wait. The judges pass judgement swiftly, yet stand idle behind a wall of clerks who cannot write fast enough"
+"Oh Brother! I am seeing your diminishing returns again! The scribes write until their hands cramp and still the people wait. The judges pass judgement swiftly, yet stand idle behind a wall of clerks who cannot write fast enough"
 
 And Jethro replied
 
